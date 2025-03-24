@@ -7,15 +7,15 @@
 }
 
 body{
-   background-color: #F4F0EA;
-   color: #798252;
+   background-color: #fff;
+   color: #3D0301;
    font-family: "Cabin", sans-serif;
    font-weight: 400;
 }
 
 header {
    padding: 2rem;
-   background-color: #331f19;
+   background-color: #B03052;
    text-align: center;
 }
 
@@ -33,18 +33,18 @@ section {
 }
 
 h2 {
-    color:#331f19;
+    color:#3D0301;
     font-size: 1.2rem;
 }
 
 input[type="radio"], input[type="checkbox"] {
-    accent-color: #CCD595;
+    accent-color: #D76C82;
 }
 
 input[type="text"],input[type="password"],input[type="date"], input[type="email"] {
     width: 100%;
     padding: 0.6rem;
-    border: 2px solid #CCD595;
+    border: 2px solid #D76C82;
     outline: none;
     border-radius: 5px ;
     background-color: transparent;
@@ -56,8 +56,8 @@ input::palceholder {
 
 select {
     cursor: pointer;
-    background-color: #CCD595;
-    color:#331f19;
+    background-color: #D76C82;
+    color:#3D0301;
     border-radius: 5px;
     border: none;
     outline: none;
@@ -74,24 +74,24 @@ table {
 }
 
 th{
-    background-color: #CCD595;
+    background-color: #D76C82;
     color:#331f19;
     padding: 1rem;
 }
 
 td {
-   color: #331f19;
+   color: #3D0301;
    padding: 1rem;
    text-align: center ;
 }
 
 tfoot td{
-   background-color: #331f19;
+   background-color: #3D0301;
    color:#F4F0EA
 }
 
 details {
-    background-color: #CCD595;
+    background-color: #D76C82;
     border-radius: 5px;
     padding: 1rem;
 }
@@ -111,7 +111,7 @@ ol li {
 }
 
 fieldset {
-    border: 2px solid #CCD595;
+    border: 2px solid #D76C82;
     border-radius: 5px;
     padding: 1rem;
 }
@@ -125,11 +125,11 @@ textarea{
     background-color: transparent;
     outline: none;
     border-radius: 5px;
-    border: 2px solid #CCD595;
+    border: 2px solid #D76C82;
 }
 
 button {
-    background-color: #CCD595;
+    background-color: #D76C82;
     border : none;
     padding: 0.8rem;
     color:#331f19;
